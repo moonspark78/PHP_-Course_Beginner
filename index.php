@@ -1,3 +1,3 @@
 <?php
-    echo "Hello, World! yoooo";
+    echo "Course of PHP Bigginer";
 ?>
