@@ -30,5 +30,8 @@
     echo "<br>";
     echo "<br>";
     var_dump($clubs);
+
+
+    $isEmpty= NULL; // Null
     
 ?>
