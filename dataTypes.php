@@ -13,4 +13,22 @@
 
     $isTrue = true; // Boolean
     $isFalse = false; // Boolean
+
+
+    $brands= array("Apple", "Samsung", "Huawei"); // Array
+    echo "<br>";
+    echo "<br>";
+    echo "<br>";
+    var_dump($brands);
+
+    $clubs = [
+        "Barcelona" => "Spain",
+        "Real Madrid" => "Spain",
+        "Liverpool" => "England"
+    ]; // Associative Array
+    echo "<br>";
+    echo "<br>";
+    echo "<br>";
+    var_dump($clubs);
+    
 ?>
