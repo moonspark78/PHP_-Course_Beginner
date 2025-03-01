@@ -16,8 +16,10 @@
 
     print_r($name);
     echo "<br>";
-    
+
     echo($name);
     echo "<br>";
-    echo " lolo"
+    echo "----------------";
+    echo "Hello World!"; // Affiche "Hello World!"
+    echo 42; // Affiche "42"
 ?>
