@@ -27,5 +27,11 @@
     //Utilisation : Similaire à echo, mais ne prend qu'un seul argument.
     print "Bonjour"; // Affiche "Bonjour"
     $resultat = print "Hello"; // $resultat = 1
+    echo "<br>";
+    echo "----------------";
+    $tableau = ["a", "b", "c"];
+    print_r($tableau);
+    /* Sortie :
+    Array ( [0] => a [1] => b [2] => c ) */
 
 ?>
