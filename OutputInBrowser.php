@@ -34,4 +34,9 @@
     /* Sortie :
     Array ( [0] => a [1] => b [2] => c ) */
 
+    //var_dump
+    //Utilisation : Affiche type + valeur + structure détaillée (débogage avancé).
+    $age = 25;
+    var_dump($age); // int(25)
+
 ?>
